@@ -1,0 +1,12 @@
+{
+  "export_job_id": "b1b6c4ab-cb96-4233-974c-5bc7430dedb9",
+  "id_short": 126011,
+  "published_at": "2026-04-10T19:09:01Z",
+  "repo_name": "tech-ready-restaurants-in-kentucky-us-sample-126011",
+  "sample_asset_name": "beamstation_126011_restaurants-us-ky_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/126011/beamstation_126011_restaurants-us-ky_SAMPLE_DIST.csv",
+  "sample_records": 5,
+  "sample_sha256": "672d69af796e3542cf73991a42f64b0558388fc3291cf1e3bbceb52543a2072c",
+  "sample_size_bytes": 34883,
+  "total_records": 50
+}
