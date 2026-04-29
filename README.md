@@ -1,6 +1,6 @@
 # Tech-Ready Restaurants in Kentucky, US
 
-> Free BeamStation sample export with 1 rows and masked direct-contact fields.
+> Free BeamStation sample export with 4 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `126011` |
 | Location | Kentucky |
 | Category | Restaurants |
-| Full dataset size | 11 records |
-| Free sample size | 1 records (9.09%) |
-| Last export | 2026-04-22T17:00:08.405402+00:00 |
+| Full dataset size | 40 records |
+| Free sample size | 4 records (10.0%) |
+| Last export | 2026-04-29T16:54:57.955873+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/tech-ready-restaurants-in-kentucky-us-sample-126011/releases/download/sample-latest/beamstation_126011_restaurants-us-ky_SAMPLE_DIST.csv) |
 
 ## What is in this sample
